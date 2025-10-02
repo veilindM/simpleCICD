@@ -1,0 +1,11 @@
+{
+  "name": "simple-devops-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server -p 8080",
+    "test": "echo 'No tests yet!' && exit 0"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
